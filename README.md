@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 📝 I regularly write articles on [www.mahedi.me](www.mahedi.me)
+- 📝 I regularly write articles on [www.mahedi.net](www.mahedi.net)
 
 - 💬 Ask me about **Linux**
 
